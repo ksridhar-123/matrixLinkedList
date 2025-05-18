@@ -1,0 +1,11 @@
+* text=auto
+
+*.sh eol=lf
+
+*.sln text
+*.vcxproj text
+*.vcxproj.filters text
+*.vcxproj.user text
+*.props text
+*.cpp text
+*.h text
